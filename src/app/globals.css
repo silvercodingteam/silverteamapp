@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  font-family: var(--font-vazir);
+}
+
+@theme {
+  --color-headercolor: #252fe8;
+  --font-vazir: var(--font-vazir);
+}
+
+body {
+  background-color: rgb(174, 174, 174);
+}
