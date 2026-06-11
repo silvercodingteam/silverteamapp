@@ -7,6 +7,9 @@ export default function Footer() {
             <div className="w-full flex justify-center gap-2 py-10">
                 <Image src={logo} alt="logo" width={640} height={640} className="w-20 h-20"/>
                 <h3 className="text-3xl flex items-center">تیم سیلور</h3>
+                <p>
+                    efoihverqhveqjvukervieqrviubweaifuberiurvbeqibverqbvjeqbvjbwsjvbkBCJKBKJWBV
+                </p>
             </div>
             <div>
                 
