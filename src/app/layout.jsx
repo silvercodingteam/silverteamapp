@@ -17,6 +17,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Silver Team",
   description: "Silver, Programming and Web Developement Team",
+  icons: {
+    icon: "/silver-logo.jpg",
+  },
 };
 
 export default function RootLayout({ children }) {
